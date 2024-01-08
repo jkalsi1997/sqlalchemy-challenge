@@ -1,6 +1,6 @@
-##Climate Analysis and Flask API - README
+Climate Analysis and Flask API - README
 #Introduction
-Congratulations on planning your long holiday vacation to Honolulu, Hawaii! To enhance your trip planning, you've chosen to conduct a climate analysis of the area. This README will guide you through the necessary steps to perform the analysis and create a Flask API for easy access to the climate data.
+Congratulations on planning your long holiday vacation to Honolulu, Hawaii! To enhance your trip planning, you've chosen to conduct a climate analysis of the area. 
 
 #Part 1: Analyze and Explore the Climate Data
 Jupyter Notebook Database Connection
